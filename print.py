@@ -26,5 +26,21 @@
 # print("Pais: "+ input("¿En que pais vives?: "))
 
 
-print("Nombre de Cerveza:\"" + (input("¿Cuál es tu color favorito en inglés?: ") + input("Cuales son las primeras 3 letras de tu apellido: "))+"\"")
+# print("Nombre de Cerveza:\"" + (input("¿Cuál es tu color favorito en inglés?: ") + input("Cuales son las primeras 3 letras de tu apellido: "))+"\"")
+
+# nombredeestuduante = "angelica"
+
+nombre = "Tony Soprano"
+edad =  51
+print (nombre )
+print (edad)
+
+
+nombre1 = "Julia"
+apellido = "Roberts"
+nombrecompleto = nombre1 + " "+ apellido
+print(nombrecompleto)
+
+curso = "python"
+print("Estas tomando un curso de: "+ curso)
 
